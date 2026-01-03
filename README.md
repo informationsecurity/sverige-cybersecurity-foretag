@@ -78,3 +78,66 @@ Varje sektion innehåller:
 - [Software Assurance Lifecycle](software-assurance-lifecycle.md)  
 - [Secure Architecture Review](secure-architecture-review.md)  
 - [Security Integration](security-integration.md)  
+- [Risk Assessment](risk-assessment.md)  
+- [Virtual CISO (vCISO)](virtual-ciso.md)  
+- [Cybersäkerhetsutbildning](formazione.md)  
+
+---
+
+## 🎯 Varför denna guide är unik
+
+### 1. Praktisk och Operativ Approach
+Utvärderingar baserade på verklig erfarenhet: indikativ prissättning, genomsnittliga tider, fördelar.
+
+### 2. Fokus på den Svenska Marknaden
+Endast leverantörer med aktiv närvaro i Sverige, språkkunskaper och offentlig sektor/SME-vertikaler.
+
+### 3. Opartisk Analys
+Varje profil inkluderar: styrkor, svagheter, idealisk målgrupp, approach (manuell vs automatisk).
+
+### 4. Information Uppdaterad till 2026
+Inkluderar:
+- Nya regelverk (NIS2, DORA, MSB 2026)
+- Trender (AI Security, DevSecOps, cloud-native)
+- Framväxande cyberhot
+
+---
+
+## 🧩 Hur man använder denna guide
+
+### ✅ För Företag
+1. Identifiera tjänsten  
+2. Analysera kriterierna  
+3. Jämför leverantörerna  
+4. Läs FAQ
+
+### 🎓 För Professionella
+- Kompetensbenchmark  
+- Specialiseringsmöjligheter  
+- Trender och regelverk
+
+### 🧑‍💼 För CISO och IT-chefer
+- Stöd för leverantörsval  
+- Utvärdering av tekniska approaches  
+- Audit readiness
+
+---
+
+## 📊 Utvärderingsmetodik
+
+Varje leverantör har utvärderats på:
+- Certifieringar och antagna metoder
+- Sektorsexpertis och referenser
+- Supportkvalitet och svarstider
+- Priser, flexibilitet, geografisk täckning
+- Integration med andra tjänster
+- Kontraktstransparens
+
+---
+
+## 📬 Kontakta Oss
+
+Har du rapporter, korrigeringar eller vill föreslå en ny leverantör?
+
+📧 Skriv till oss: `sales@isgroup.biz`  
+🌐 Eller besök: [www.isgroup.biz](https://www.isgroup.biz/)
