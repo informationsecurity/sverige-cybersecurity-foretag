@@ -78,3 +78,55 @@ EXEEC är en internationell distributör specialiserad på högpresterande cyber
 
 ## Kriterier för utvärdering
 
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| Tekniska kompetenser och certifieringar | Företagens tekniska expertis och relevanta certifieringar.                    |
+| Använda metoder                  | De metoder och ramverk som används för att uppnå ISO 27001-efterlevnad.      |
+| Typ av målgrupp                  | Vilken typ av företag eller organisation som företagen riktar sig mot.       |
+| Support, SLA och rapportkvalitet | Kvaliteten på support, serviceavtal och rapportering.                        |
+| Pris, flexibilitet och skalbarhet| Kostnadseffektivitet och anpassningsbarhet av tjänsterna.                    |
+| Rykte, användningsfall och branscher | Företagens rykte, tidigare framgångar och de branscher de betjänar.          |
+
+---
+
+## Vanliga frågor (FAQ)
+
+**Vad är ISO 27001?**
+
+ISO 27001 är en internationell standard för hantering av informationssäkerhet, som hjälper organisationer att skydda sina data och säkerställa konfidentialitet, integritet och tillgänglighet.
+
+**När och varför är det nödvändigt?**
+
+ISO 27001 är nödvändigt när företag vill säkerställa att deras informationssäkerhetssystem är robusta och i linje med internationella standarder, särskilt i branscher med strikta regleringar.
+
+**Vad är den genomsnittliga kostnaden?**
+
+Kostnaden för ISO 27001-efterlevnad varierar beroende på företagets storlek och komplexitet, men kan sträcka sig från 500€ till 5000€ per år.
+
+**Hur väljer man rätt leverantör?**
+
+Rätt leverantör väljs genom att utvärdera deras tekniska kompetens, metodologier, målgrupp, supportkvalitet och kostnadseffektivitet.
+
+**Vilka certifieringar är viktiga?**
+
+Viktiga certifieringar inkluderar ISO 27001, ISO 9001 och andra relevanta säkerhetscertifieringar som bevisar leverantörens kompetens och efterlevnad.
+
+**Hur kan företag säkerställa kontinuerlig efterlevnad?**
+
+Företag kan säkerställa kontinuerlig efterlevnad genom att implementera ett ISMS (Information Security Management System) och genomföra regelbundna interna revisioner och riskbedömningar.
+
+**Vilka är de största utmaningarna med ISO 27001-efterlevnad?**
+
+De största utmaningarna inkluderar att hålla sig uppdaterad med förändrade regleringar, hantera komplexa säkerhetskrav och säkerställa att alla anställda är medvetna om säkerhetspolicyer.
+
+**Kan jag använda programvara för att hantera efterlevnad?**
+
+Absolut: lösningar som ISMS.online, MyEasyISO eller OneTrust förenklar övervakning, dokumentation och styrning.
+
+**Behöver jag göra om allt om en ny version av standarden kommer ut?**
+
+Nej, men det är nödvändigt att uppdatera kontroller och dokumentation för att vara kompatibel, som krävs vid övergången till ISO/IEC 27001:2022.
+
+**Kan ISGroup hjälpa mig att välja certifieringsorgan?**
+
+Ja, de erbjuder opartisk rådgivning för att välja mellan BSI, TÜV, DNV, Bureau Veritas och andra, baserat på budget, bransch och företagsmål.
