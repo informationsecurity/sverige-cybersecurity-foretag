@@ -78,3 +78,33 @@ EXEEC är en internationell distributör specialiserad på högpresterande cyber
 
 | Kriterium                        | Beskrivning                                                                 |
 |----------------------------------|-----------------------------------------------------------------------------|
+| Tekniska kompetenser och certifieringar | Utvärdering av teknisk expertis och relevanta certifieringar.                |
+| Använda metoder                  | Analys av de metoder och ramverk som används för att säkerställa compliance. |
+| Typ av målgrupp                  | Identifiering av den typ av kunder som företaget riktar sig mot.             |
+| Support, SLA och rapportkvalitet | Bedömning av supportnivå, serviceavtal och kvalitet på rapportering.        |
+| Pris, flexibilitet och skalbarhet| Utvärdering av kostnadseffektivitet och anpassningsbarhet.                  |
+| Rykte, användningsfall och betjänade sektorer | Analys av företagets rykte och erfarenhet inom olika sektorer.              |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är 27017 Compliance?
+
+ISO 27017 är en internationell standard för informationssäkerhet i molntjänster, som ger riktlinjer för att skydda data och säkerställa säkerhet i molnmiljöer.
+
+### När och varför är det nödvändigt?
+
+Efterlevnad av ISO 27017 är nödvändig för företag som använder molntjänster för att säkerställa datasäkerhet och uppfylla regulatoriska krav.
+
+### Vad är den genomsnittliga kostnaden?
+
+Kostnaden för ISO 27017 Compliance varierar beroende på företagets storlek och komplexitet, men det är en investering i långsiktig säkerhet och efterlevnad.
+
+### Hur väljer man rätt leverantör?
+
+Att välja rätt leverantör innebär att utvärdera deras tekniska kompetens, certifieringar, supportnivå och anpassningsförmåga till dina specifika behov.
+
+### Vilka är de viktiga certifieringarna?
+
+Viktiga certifieringar inkluderar ISO 27001 och ISO 27017, som säkerställer att leverantören följer internationella standarder för informationssäkerhet.
