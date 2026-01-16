@@ -78,3 +78,56 @@ EXEEC är en distributör specialiserad på offensiva och molnbaserade teknologi
 ---
 
 ## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Tekniska kompetenser**        | ISO-certifieringar, erfarenhet av molnsäkerhet, certifierat team           |
+| **Metoder**                      | Gap-analys, revision, åtkomstkontroll, dataklassificering                  |
+| **Målgrupp**                     | SME, företag, offentlig förvaltning, reglerade miljöer                     |
+| **Support och rapporter**        | Kvalitet på dokumentation, åtgärd, kontinuerlig support                    |
+| **Flexibilitet och pris**       | Skräddarsydda tjänster, skalbarhet, modularitet                            |
+| **Rykte**                        | Fallstudier, vittnesmål, erhållna certifieringar                           |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är 27018 Compliance?
+
+ISO/IEC 27018 är en internationell standard för skydd av personuppgifter (PII) i molntjänster. Den specificerar tekniska, kontraktuella och organisatoriska kontroller som leverantörer måste anta för att garantera integritet och säkerhet.
+
+### När och varför är det nödvändigt?
+
+Det är grundläggande för de som hanterar personuppgifter i molnet, särskilt inom reglerade sektorer eller med europeiska kunder. Det gör det möjligt att visa ansvarsskyldighet och efterlevnad av GDPR.
+
+### Vad är den genomsnittliga kostnaden?
+
+Det beror på nivån av anpassning, komplexiteten i molnmiljön och det aktuella tillståndet för dokumentationen. SME kan börja från några tusen euro, stora företag från tiotusentals.
+
+### Hur väljer man rätt leverantör?
+
+Utvärdera erfarenhet, certifieringar, support efter revision och förmågan att anpassa sig till dina specifika behov. Checklistan i denna guide hjälper dig att jämföra alternativen på ett strukturerat sätt.
+
+### Vilka certifieringar är viktiga?
+
+ISO/IEC 27001 (förutsättning), ISO/IEC 27018, SOC 2, GDPR-beredskap. Uppmärksamhet även på molnleverantörernas efterlevnad (t.ex. AWS, Azure, GCP).
+
+### Vem är ansvarig för efterlevnad i molnet?
+
+Enligt modellen för delat ansvar har både kunden och leverantören specifika roller. ISO 27018 hjälper till att definiera dessa gränser och dokumentera varje aktivitet.
+
+### Behövs det även för SaaS?
+
+Ja, särskilt för programvara som behandlar känsliga data från användare eller kunder. Det är en konkurrensfördel gentemot slutkunder och i offentliga upphandlingar.
+
+### Räcker det med certifiering av molnleverantören?
+
+Nej. Ansvaret kvarstår även hos den registeransvarige (du). Du måste verifiera policyer, kontroller och säkerhetspraxis under hela datalivscykeln.
+
+### Kan jag certifiera mig även om jag använder flera molnleverantörer?
+
+Ja. Vissa företag erbjuder multi-molnlösningar och verktyg för att hantera ISO 27018-efterlevnad även i komplexa och distribuerade miljöer.
+
+### Finns det automatiska verktyg för efterlevnad?
+
+Ja. Vissa leverantörer erbjuder verktyg för dataklassificering, logganalys, policykontroll och revisionsspår. Mänsklig vägledning förblir dock väsentlig för verklig efterlevnad.
