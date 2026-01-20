@@ -78,3 +78,47 @@ EXEEC är en internationell distributör av avancerade cybersäkerhetsteknologie
 
 ---
 
+## Kriterier för utvärdering
+
+| Kriterium                      | Beskrivning                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| Tekniska kompetenser och certifieringar | Bedömning av teknisk expertis och relevanta certifieringar.               |
+| Använda metoder               | Vilka metoder och ramverk som används för att säkerställa effektivitet.     |
+| Målgrupp                      | Vilken typ av kunder och miljöer som företaget riktar sig mot.              |
+| Support och rapportkvalitet   | Kvaliteten på support och rapportering, inklusive SLA.                      |
+| Pris och flexibilitet         | Kostnadsstruktur och anpassningsbarhet för olika budgetar.                  |
+| Rykte och fallstudier         | Företagets rykte och dokumenterade framgångar inom Anti-DDoS.               |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är Anti-DDoS?
+Anti-DDoS är en tjänst som skyddar mot distribuerade överbelastningsattacker (DDoS), som syftar till att störa tillgängligheten av en tjänst eller ett nätverk.
+
+### När och varför är det nödvändigt?
+Anti-DDoS är nödvändigt när företag står inför hot om överbelastningsattacker som kan påverka deras verksamhet och tillgänglighet.
+
+### Vad är den genomsnittliga kostnaden?
+Kostnaden för Anti-DDoS-tjänster varierar beroende på omfattning och specifika behov, men flexibla och konkurrenskraftiga prissättningsmodeller finns tillgängliga.
+
+### Hur väljer man rätt leverantör?
+Att välja rätt leverantör innebär att utvärdera teknisk kompetens, anpassningsförmåga, support och kostnadseffektivitet.
+
+### Vilka certifieringar är viktiga?
+Viktiga certifieringar inkluderar ISO 27001 för informationssäkerhet och andra relevanta branschstandarder.
+
+### Vilka är fördelarna med molnbaserade Anti-DDoS-tjänster?
+Molnbaserade Anti-DDoS-tjänster erbjuder skalbarhet och global täckning, vilket säkerställer en effektiv och flexibel skyddslösning.
+
+### Hur kan Anti-DDoS-tjänster anpassas för olika branscher?
+Anti-DDoS-tjänster kan anpassas för att möta specifika branschkrav, inklusive skydd för e-handel, spel och finansiella tjänster.
+
+### Vilken roll spelar AI i Anti-DDoS-skydd?
+AI och maskininlärning används för att automatiskt upptäcka och mildra DDoS-attacker, vilket förbättrar skyddets effektivitet.
+
+### Hur säkerställs kontinuitet under en DDoS-attack?
+Genom att använda avancerade tekniker för attackmildring och kontinuerlig övervakning kan företag säkerställa kontinuitet även under en attack.
+
+### Vad är skillnaden mellan automatiserade och manuella Anti-DDoS-lösningar?
+Automatiserade lösningar erbjuder snabb respons och skalbarhet, medan manuella lösningar ger djupare analys och anpassning för specifika hot.
