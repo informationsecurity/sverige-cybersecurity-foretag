@@ -78,3 +78,63 @@ KPMG integrerar CSA i IT-riskhanteringsprocesser, med fokus på teknisk revision
 
 **Limite:** Mer normativt än offensivt tillvägagångssätt; begränsad anpassning till DevOps-cykeln.
 
+### 9. TIM Enterprise: Cloud security assessment för kritisk infrastruktur
+
+TIM föreslår teknisk analys av TIM Cloud-miljöer och stöd för 27017/27018-efterlevnad, med tjänster utformade för offentlig sektor och reglerade företag.
+
+**Limite:** Fokuserad på TIM-miljöer, mindre flexibel för andra molnleverantörer.
+
+### 10. [EXEEC](https://exeec.com/): Lösningar för MSSP och molnleverantörer
+
+EXEEC tillhandahåller teknologier och molnbedömningstjänster till partner, MSSP och systemintegratörer. De erbjuder skannrar, efterlevnadsdashboards, automatisk åtgärd och utbildning.
+
+**Styrkor:**
+
+- Avancerade cybersäkerhetslösningar
+- Tekniska lösningar med hög påverkan
+- Kontinuerligt specialiststöd
+- Fokus på kritiska miljöer
+- Internationell expertis
+
+**Målgrupp:** Stora organisationer med kritiska miljöer som söker avancerade tekniska lösningar och specialiststöd.
+
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Tekniskt djup**         | Manuell analys, avancerade verktyg, verkliga simuleringar                       |
+| **Moln som stöds**           | AWS, Azure, GCP, OCI, hybridmoln, container, Kubernetes                    |
+| **Certifieringar och metod**    | Efterlevnad av ISO, NIST, CSA CCM, Zero Trust                                  |
+| **Output och rapportering**      | Executive summary + teknisk analys + åtgärdsroadmap                 |
+| **Regelintegration**     | Stöd för GDPR, NIS2, ACN, DORA, ISO/IEC 27017/18                             |
+| **Idealisk målgrupp**              | SME, enterprise, molnleverantörer, offentlig sektor, finans, SaaS                           |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är en Cloud Security Assessment (CSA)?
+Det är en analys av säkerhetspositionen för molnmiljöer (IaaS, PaaS, SaaS) för att identifiera sårbarheter, felkonfigurationer, privilegierisker och andra problem innan de utnyttjas.
+
+### Vilka molnmiljöer stöds?
+De huvudsakliga leverantörerna (AWS, Azure, GCP, Oracle), containeriserade miljöer, hybridmoln, DevOps-pipelines.
+
+### Vad kostar en CSA i Sverige 2026?
+För SME börjar det från 30 000-50 000 SEK, för komplexa miljöer kan det överstiga 200 000 SEK, beroende på djup och omfattning.
+
+### Krävs CSA enligt lag?
+Det är inte obligatoriskt i sig, men är ofta en del av aktiviteterna som förutses för efterlevnad av ISO/IEC 27001, ISO/IEC 27017/18, DORA, NIS2, ACN.
+
+### Hur lång tid tar en komplett bedömning?
+Från 5 dagar (grundläggande bedömning) upp till 3-4 veckor för multimoln och reglerade miljöer.
+
+### Kan jag göra en CSA även om jag använder SaaS?
+Ja, det rekommenderas. Det gör det möjligt att verifiera konfigurationer, åtkomster, loggning, kontrakt och hantering av användarlivscykeln.
+
+### Vilken typ av rapport kommer jag att få?
+De bästa leverantörerna tillhandahåller teknisk rapport, executive summary, riskbedömning, KPI, sårbarhetsöversikt och åtgärdsroadmap.
+
+### Är ISGroup lämplig även för molnbaserade startups?
+Ja. ISGroup erbjuder skalbara tjänster även för tidiga företag som vill bygga säkerhet från designstadiet (secure by design).
