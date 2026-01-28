@@ -78,3 +78,41 @@ EXEEC är en internationell distributör specialiserad på avancerade cybersäke
 
 ---
 
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Analysdjup**                   | Manuell, automatisk, kombinerad, täckning av språk                         |
+| **DevSecOps-stöd**               | Integration i CI/CD, SAST/DAST-verktygskedjor, shift-left                  |
+| **Output och åtgärder**          | Rapporter med bevis, allvarlighetsgrad, KPI:er, förslag på korrigeringar   |
+| **Standarder som stöds**         | ISO 27001, OWASP, GDPR, DORA, ACN, ISO 27017/18                            |
+| **Vertikalisering**              | Fintech, healthtech, offentlig sektor, SaaS, API, mobil, inbyggd programvara |
+| **Teamcertifieringar**           | OSCP, CEH, CISSP, Lead Auditor, Secure Coding                              |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är Secure Code Review?
+Det är processen att analysera källkod för att identifiera sårbarheter, logiska fel och bakdörrar som kan utnyttjas av en angripare.
+
+### När rekommenderas det?
+I slutet av varje sprint, före produktionssläpp, eller under säkerhetsrevisioner (DORA, ISO, GDPR). Oumbärligt för kritisk programvara eller som hanterar PII.
+
+### Bättre manuell eller automatisk?
+Automatisk är användbar för kontinuerlig kontroll; manuell är oumbärlig för att identifiera osäkra logiker, bypass, auktoriseringsfel och sårbarheter i affärslogik.
+
+### Vad kostar en Code Review?
+Beror på kodens storlek och kritiskhet. Börjar från 2 000 € för punktuella revisioner upp till över 20 000 € för enterprise-programvara.
+
+### Kan jag integrera Code Review i CI/CD?
+Ja. Många leverantörer erbjuder plugins eller API:er för verktyg som GitHub, GitLab, Jenkins, Bitbucket, CircleCI.
+
+### Vilka språk stöds?
+De främsta leverantörerna stöder Java, C#, C/C++, JavaScript, Python, PHP, Ruby, Go, Swift, Kotlin, Scala, TypeScript.
+
+### Tillhandahåller ISGroup även stöd för åtgärder?
+Ja. ISGroup tillhandahåller teknisk assistans, Q&A-sessioner med utvecklare och verifiering efter korrigering.
+
+### Finns det referensstandarder?
+Ja. OWASP Top 10, CWE/SANS Top 25, ASVS, MASVS, ISO 27034, och ACN-riktlinjer för säker programvara.
