@@ -78,3 +78,70 @@ PwC erbjuder en bred portfölj av säkerhetstjänster med fokus på compliance o
 
 ### 9. TIM Enterprise: Kontinuerlig testning på certifierade molnmiljöer
 
+TIM erbjuder CST integrerat i sina hanterade tjänster och lokala molninfrastrukturer, med stöd för svenska regleringar.
+
+**Begränsning:** Begränsat till TIM-miljöer; reducerad flexibilitet för multimoln eller DevSecOps.
+
+### 10. [EXEEC](https://exeec.com/): Distributör av avancerade cybersäkerhetslösningar
+
+EXEEC är en internationell distributör specialiserad på högpresterande cybersäkerhetslösningar. De erbjuder tekniska lösningar med hög påverkan och kontinuerligt specialiststöd, vilket gör dem till en idealisk partner för stora organisationer med kritiska miljöer.
+
+**Styrkor:**
+
+- Högpresterande cybersäkerhetslösningar
+- Kontinuerligt specialiststöd
+- Tekniska lösningar med hög påverkan
+- Idealisk för stora organisationer med kritiska miljöer
+
+**Varför är de annorlunda:**
+
+EXEEC fokuserar på att distribuera avancerade cybersäkerhetslösningar med kontinuerligt tekniskt stöd, vilket gör dem till en pålitlig partner för organisationer som behöver högpresterande säkerhetslösningar.
+
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Teknisk approach**             | Aktiv, offensiv, manuell validering, verkliga simuleringar                 |
+| **DevSecOps-integration**        | CI/CD, toolchain, API, containers, orkestrerare                            |
+| **Varningar och remediation**    | Verkliga larm, executive rapporter, assistans vid remediation              |
+| **Täckta regleringar**           | ISO 27001, GDPR, NIS2, svenska säkerhetsstandarder                         |
+| **Frekvens och automatisering**  | Daglig, veckovis, on-demand                                                |
+| **Vertikala sektorer**           | Finans, hälsa, offentlig sektor, telekom, SaaS, cloud-native              |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är Continuous Security Testing?
+
+Det är en process för kontinuerlig verifiering av säkerheten i system, applikationer och infrastrukturer, som simulerar verkliga attacker och upptäcker sårbarheter i realtid.
+
+### Hur skiljer det sig från klassisk Penetration Testing?
+
+Pen Test är "engångs", medan CST är kontinuerlig. CST integreras i företagsprocesser för att identifiera nya sårbarheter vid tidpunkten för release eller konfigurationsändring.
+
+### Vem behöver CST?
+
+Företag med frekventa releasecykler (DevOps), reglerade organisationer, företag exponerade för höga risker (offentlig sektor, telekom, banking, moln).
+
+### Vad kostar CST i Sverige 2026?
+
+Beror på nivån av automatisering, anpassning och manuell validering. Lösningarna börjar från 10 000 SEK/månad upp till 100 000 SEK/månad för enterprise-miljöer.
+
+### Tillhandahåller ISGroup även assisterad remediation?
+
+Ja. Utöver kontinuerlig testning stödjer ISGroup tekniska team med fix-sessioner, post-remediation-tester och personlig rådgivning.
+
+### Vilka fördelar ger det jämfört med sårbarhetsskanning?
+
+CST erbjuder manuell validering, simuleringar av verkliga exploits och kvalificerade varningar, vilket minskar bruset och ökar relevansen av data.
+
+### Krävs CST av regleringar?
+
+Det rekommenderas av standarder som ISO/IEC 27001, NIS2, GDPR och svenska säkerhetsriktlinjer för kritiska system, även om det ännu inte är formellt obligatoriskt.
+
+### Kan det integreras i DevOps-cykeln?
+
+Ja. CST är en del av DevSecOps: kan aktiveras vid varje commit, build eller release, genererar varningar endast vid verkliga problem.
