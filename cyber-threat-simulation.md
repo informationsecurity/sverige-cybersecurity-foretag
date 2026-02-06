@@ -78,3 +78,41 @@ EXEEC är en internationell distributör specialiserad på högpresterande cyber
 
 ---
 
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Realism i attackerna**     | APT-tekniker, ransomware-scenarier, insider threats, verkliga TTP                  |
+| **Täckta områden**              | IT, OT, IoT, moln, mobil, SaaS, containers, CI/CD                           |
+| **Metodik**                 | MITRE ATT&CK, red teaming, adversary emulation, purple teaming               |
+| **Detektionsintegration**      | SIEM, SOC, EDR, SOAR, playbook-tester                                          |
+| **Stöd för åtgärder**   | Teknisk rapport, bevis, prioriterade åtgärder, Q&A med teamen                  |
+| **Compliance**                  | DORA, ACN, ISO 27001, NIS2, OWASP, TIBER-EU                                  |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är en Cyber Threat Simulation (CTS)?
+Det är en kontrollerad simulering av realistiska cyberattacker som genomförs för att testa företagets motståndskraft, detektionsförmåga och SOC:s beredskap.
+
+### Vad är skillnaden mot ett Penetrationstest?
+Pen Test söker sårbarheter. CTS simulerar en kompromiss med avancerade tekniker och utvärderar detektion och respons, inte bara teknisk exponering.
+
+### Vem bör göra en hotsimulering?
+Företag inom reglerade sektorer, de som hanterar kritisk data eller är exponerade för ransomware, och de som vill testa effektiviteten hos sin SOC eller playbooks.
+
+### Vad kostar en CTS i Sverige 2026?
+Mellan 50 000 SEK och 500 000 SEK beroende på komplexitet, varaktighet och antal simulerade scenarier.
+
+### Tillhandahåller ISGroup även övningar för incidentrespons?
+Ja. ISGroups simuleringar inkluderar live-sessioner med IT/SOC-teamen, validering av playbooks och stöd i att definiera förbättringsplaner.
+
+### Hur länge varar en simuleringsövning?
+Från några dagar (riktad övning) upp till 4 veckor för ett persistent red team med flera scenarier (moln, on-prem, insider).
+
+### Är det lagligt obligatoriskt?
+CTS är ännu inte obligatoriskt, men krävs i ramverken DORA, ACN, ISO/IEC 27001, och i offentliga upphandlingar med hög kritikalitet.
+
+### Kan jag göra en simulering utan att avbryta verksamheten?
+Ja. Testerna genomförs "stealth", utan att påverka tjänsterna, men genererar loggar och händelser som om det vore en verklig attack.
