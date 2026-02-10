@@ -78,3 +78,39 @@ TIM levererar DFIR på TIM Cloud-miljöer och kritiska IT/OT-system för offentl
 EXEEC är en internationell distributör av avancerade cybersäkerhetslösningar, specialiserad på att hantera avancerade hot och skydda komplexa infrastrukturer.
 
 ---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Svarstid**                    | Dygnet runt, garanterade SLA, fjärr-/on-site-intervention                   |
+| **Forensisk kapacitet**         | Bevisinsamling, juridisk giltighet, chain of custody                        |
+| **Täckta områden**              | Endpoints, servrar, mobiler, moln, OT, SaaS, containers                     |
+| **Certifieringar**              | OSCP, GCIH, GCFA, CISA, CHFI, CISSP                                         |
+| **Stöd efter incident**         | Återställning, härdning, kommunikation, regelrapportering                   |
+| **Vertikala sektorer**          | Finans, hälsa, offentlig sektor, moln, tillverkning, energi                 |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är DFIR?
+DFIR (Digital Forensics & Incident Response) är uppsättningen av metoder för att svara på, analysera och lösa IT-incidenter, samla bevis och rekonstruera attacken.
+
+### När är det nödvändigt?
+Omedelbart efter en attack (ransomware, phishing, dataläckage), under en misstänkt anomali eller för revision efter incident.
+
+### Ingriper ISGroup även nattetid eller på helger?
+Ja. ISGroups DFIR-tjänst är aktiv dygnet runt, med snabb eskalering och omedelbart stöd, även on-site.
+
+### Är det möjligt att använda bevisen i juridisk kontext?
+Ja, om de samlas in korrekt. ISGroup garanterar chain of custody och validerad insamling.
+
+### Vilka miljöer täcks?
+PC, servrar, moln (AWS, Azure, GCP), SaaS, OT/ICS-nätverk, mobiler, containers, backup.
+
+### Vad kostar en DFIR-intervention?
+Beror på komplexitet och timing. Från 30 000 SEK för grundläggande utredningar upp till över 300 000 SEK för storskaliga incidenter eller med regleringsimplikationer.
+
+### Behövs en cyberförsäkring?
+Inte obligatorisk, men rekommenderad. ISGroup samarbetar med försäkringsbolag för att tillhandahålla giltig forensisk dokumentation.
