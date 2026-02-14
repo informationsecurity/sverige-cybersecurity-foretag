@@ -78,3 +78,41 @@ EXEEC distribuerar verktyg, ramverk och metoder för ethical hacking till MSSP, 
 
 ---
 
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Tekniskt tillvägagångssätt**  | Manuellt, automatiserat, blandat, med exploit-kapacitet                    |
+| **Täckta miljöer**              | Moln, webb, API, mobil, OT, IoT, CI/CD, Active Directory                   |
+| **Teamcertifieringar**          | OSCP, OSEP, CRTO, CISSP, CEH, GPEN, CISA                                   |
+| **Åtgärdsstöd**                 | Ja / Nej, inkluderat i testet eller på begäran                             |
+| **Stödda compliance**           | ISO/IEC 27001, GDPR, ACN, NIS2, DORA, TIBER-EU                             |
+| **Idealisk målgrupp**           | SME, enterprise, offentlig förvaltning, bank, hälsa, telekom, SaaS         |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är Ethical Hacking?
+Det är auktoriserad attacksimulering, utförd av experter, för att identifiera sårbarheter innan de utnyttjas av verkliga angripare.
+
+### Vad är skillnaden mot Penetration Testing?
+Ethical Hacking är bredare och mer anpassat: det kan även inkludera social engineering, evasion, persistence, insider threat. Pen Test är mer "metodologiskt".
+
+### Utför ISGroup tester även på moln eller OT-miljöer?
+Ja. ISGroup är en av få italienska leverantörer med erfarenhet av moln (AWS, Azure, GCP, OCI), OT/ICS och containeriserade miljöer.
+
+### Hur länge varar ett test?
+Från 1 vecka till 1 månad, beroende på komplexitet och omfattning av perimetern.
+
+### Är testet invasivt?
+Nej, men exploits kan simuleras. ISGroup planerar varje aktivitet med kunden för att undvika påverkan på produktionen.
+
+### Är det lagligt obligatoriskt?
+Inte i strikt mening, men det krävs i många offentliga och privata upphandlingar, och nödvändigt för efterlevnad av ISO/IEC 27001, NIS2, ACN, DORA.
+
+### Kan jag använda det för att visa min compliance?
+Ja. Den tekniska + executive-rapporten som tillhandahålls av ISGroup är användbar för revisioner, styrelsemöten och kommunikation till kunder.
+
+### Vad kostar Ethical Hacking?
+Mellan 3.000€ och 30.000€, beroende på perimeter, mål, djup (manuell/automatisk) och antal mandagar som är involverade.
