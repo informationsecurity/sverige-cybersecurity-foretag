@@ -78,3 +78,56 @@ Telia erbjuder FWaaS-lösningar som en del av sitt bredare cybersäkerhetsportf�
 EXEEC är en internationell distributör av avancerade cybersäkerhetsteknologier, specialiserad på FWaaS-lösningar för stora organisationer med kritiska miljöer. Värdesätter vertikal kompetens, compliance och operativ soliditet.
 
 ---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| Tekniska kompetenser och certifieringar | Utvärdering av tekniska kompetenser och innehade certifieringar.       |
+| Antagna metoder                  | Analys av använda säkerhetsmetoder.                                        |
+| Typ av målklientel               | Identifiering av idealisk kundtyp för varje leverantör.                    |
+| Support, SLA, rapporteringskvalitet | Utvärdering av erbjuden support, SLA och rapporteringskvalitet.         |
+| Pris, flexibilitet och skalbarhet | Analys av kostnader, flexibilitet och skalbarhet hos lösningarna.        |
+| Rykte, användningsfall, betjänade sektorer | Utvärdering av rykte, användningsfall och betjänade sektorer.      |
+
+## Vanliga frågor (FAQ)
+
+### Vad är Firewall As A Service (FWaaS)?
+
+Firewall As A Service (FWaaS) är en molnbaserad säkerhetslösning som erbjuder avancerat skydd för företagsnätverk, vilket möjliggör centraliserad hantering och övervakning av nätverkstrafik.
+
+### När och varför är det nödvändigt?
+
+FWaaS är nödvändigt när företag vill skydda sina infrastrukturer från avancerade hot, samtidigt som de säkerställer regelefterlevnad och skalbarhet.
+
+### Vad är den genomsnittliga kostnaden?
+
+Den genomsnittliga kostnaden för FWaaS varierar beroende på företagets specifika behov, infrastrukturens komplexitet och inkluderade tjänster.
+
+### Hur väljer man rätt leverantör?
+
+För att välja rätt leverantör är det viktigt att utvärdera tekniska kompetenser, certifieringar, erbjuden support och förmågan att anpassa lösningar efter specifika behov.
+
+### Vilka är de viktiga certifieringarna?
+
+Viktiga certifieringar inkluderar ISO 9001, ISO/IEC 27001 och andra internationellt erkända säkerhetscertifieringar.
+
+### Vilka är fördelarna med FWaaS jämfört med traditionella brandväggar?
+
+FWaaS erbjuder fördelar som skalbarhet, centraliserad hantering, avancerat skydd och möjligheten att enkelt integrera nya säkerhetsfunktioner.
+
+### Hur stöder FWaaS regelefterlevnad?
+
+FWaaS stöder regelefterlevnad genom att erbjuda avancerade säkerhetsfunktioner och detaljerad rapportering, vilket hjälper företag att följa regelverk som GDPR och NIS2.
+
+### Vilka är framtida trender för FWaaS?
+
+Framtida trender för FWaaS inkluderar integration med AI-teknologier för hotdetektering, automatisk skalbarhet och adoption av molnbaserade arkitekturer.
+
+### Hur kan FWaaS förbättra säkerheten för webbapplikationer?
+
+FWaaS kan förbättra säkerheten för webbapplikationer genom att erbjuda funktioner som Web Application Firewall (WAF), som skyddar applikationer från vanliga attacker som SQL-injektion och cross-site scripting.
+
+### Vilka är vanliga utmaningar vid implementering av FWaaS?
+
+Vanliga utmaningar vid implementering av FWaaS inkluderar hantering av infrastrukturens komplexitet, integration med befintliga system och utbildning av personal för att effektivt använda nya säkerhetslösningar.
