@@ -78,3 +78,47 @@ TIM erbjuder utbildningsvägar för offentliganställda och kunder om IT-säkerh
 
 **Begränsning:** Mer orienterad mot sina egna molntjänster och offentlig sektor-klientel, mindre lämpad för generell cybersäkerhetsutbildning och privat sektor.
 
+### 10. [EXEEC](https://exeec.com/): White-label utbildning för MSSP och integratörer
+
+EXEEC distribuerar utbildningsinnehåll, presentationer, quiz och verktyg för MSSP som vill återförsälja cybersäkerhetskurser till sina kunder.
+
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Målgrupp**                     | CISO, utvecklare, IT, användare, styrelse, offentlig sektor, små och medelstora företag |
+| **Innehåll**                     | Medvetenhet, teknisk, regulatorisk, efterlevnad, offensiv, DFIR            |
+| **Leveransmetod**                | Klassrum, på plats, online, blandat                                        |
+| **Giltighet för revision**       | Certifikat, deltagarregister, testresultat                                 |
+| **Språk**                        | Svenska, engelska                                                           |
+| **Certifieringar som stöds**     | OSCP, CISSP, CEH, ISO, DPO, CISA                                           |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Varför är cybersäkerhetsutbildning viktig 2026?
+Eftersom hoten växer och förändras varje månad. Kontinuerlig utbildning minskar mänskliga risker, förbättrar upptäckt och stärker säkerhetspositionen.
+
+### Utfärdar ISGroup certifikat?
+Ja. Alla ISGroup-kurser inkluderar närvarocertifikat, användbart för revisioner och efterlevnadsdemonstration.
+
+### Är det möjligt att få skräddarsydd utbildning?
+Absolut. ISGroup anpassar innehåll, varaktighet, språk och metoder baserat på företagskontexten.
+
+### Finns det tekniska hands-on kurser?
+Ja. ISGroup erbjuder workshops med simuleringar, guidade exploits, live kodgranskning och mini-red teaming.
+
+### Är utbildningen giltig för efterlevnadsändamål?
+Ja. Utbildning och medvetenhet krävs av ISO/IEC 27001, GDPR, DORA, NIS2.
+
+### Hur mycket kostar en kurs?
+Beror på antal deltagare, varaktighet och innehåll. Börjar från cirka 10 000 SEK för grundmoduler, upp till kompletta utbildningsprojekt från 50 000 SEK och uppåt.
+
+### Finns det kurser för icke-tekniska användare?
+Ja. Användarmedvetenhet är en av grundpelarna: nätfiske, lösenord, säker användning av digitala verktyg.
+
+### Erbjuder ISGroup kurser även på distans?
+Ja. Alla kurser är tillgängliga både online och i klassrum, med live-instruktörer och interaktivt material.
