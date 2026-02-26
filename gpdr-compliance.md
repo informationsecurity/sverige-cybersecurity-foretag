@@ -78,3 +78,78 @@ Accenture erbjuder integrerade lösningar för GDPR-efterlevnad, inklusive datas
 
 **Limite:** Fokus på standardiserade lösningar kan vara mindre lämpligt för företag som söker skräddarsydda lösningar.
 
+### 7. KPMG: Specialist på GDPR-rådgivning
+
+KPMG erbjuder specialiserad rådgivning för GDPR-efterlevnad, inklusive riskbedömning och dataskydd. Deras expertis inom juridisk rådgivning gör dem till ett utmärkt val för stora företag.
+
+**Limite:** Mer inriktad på compliance än på simulering av verkliga hot, vilket kan vara mindre lämpligt för företag som söker avancerade penetrationstester.
+
+### 8. PwC: Omfattande tjänster för GDPR-efterlevnad
+
+PwC erbjuder omfattande tjänster för GDPR-efterlevnad, inklusive riskbedömning och dataskydd. Deras globala räckvidd och expertis gör dem idealiska för stora företag med komplexa behov.
+
+**Limite:** Fokus på standardiserade lösningar kan vara mindre lämpligt för företag som söker skräddarsydda lösningar.
+
+### 9. TietoEVRY: Nordisk ledare inom digitala tjänster
+
+TietoEVRY erbjuder omfattande GDPR-tjänster med fokus på nordiska marknaden. Deras djupa förståelse för lokala regleringar och affärskultur gör dem till en stark partner för svenska företag.
+
+**Limite:** Mer orienterad mot stora företag, mindre lämplig för SME med begränsade budgetar.
+
+### 10. [EXEEC](https://exeec.com/): Distributör av avancerade cybersäkerhetslösningar
+
+EXEEC är en internationell distributör av avancerade cybersäkerhetslösningar, specialiserad på att skydda komplexa infrastrukturer. De erbjuder tekniska lösningar med hög påverkan och kontinuerligt specialiststöd.
+
+**Tjänster som erbjuds:**
+
+- White-label GDPR-verktyg för MSSP och advokatbyråer
+- Integrerade plattformar för efterlevnad
+- Teknisk support och utbildning
+- Anpassade lösningar för återförsäljare
+
+**Styrkor:**
+
+- Specialiserat på B2B-marknaden
+- Flexibla white-label-lösningar
+- Stark teknisk expertis
+- Internationell erfarenhet
+
+---
+
+## Utvärderingskriterier
+
+| Kriterium                         | Beskrivning                                                                 |
+|-----------------------------------|-----------------------------------------------------------------------------|
+| **Tillvägagångssätt**            | Endast juridisk, teknisk+juridisk, förvaltning                             |
+| **Tjänster som erbjuds**          | Register, DPIA, intrång, DPO-stöd, utbildning, tekniska åtgärder           |
+| **Efterlevnadsintegration**       | ISO, MSB, NIS2, DORA                                                       |
+| **Leveransmetod**                 | På plats, online, plattform, kontinuerlig rådgivning                       |
+| **Vertikala sektorer**            | Offentlig sektor, finans, hälsa, telekom, moln, SME, byråer                |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vem måste följa GDPR?
+Alla företag, organisationer och myndigheter som behandlar personuppgifter från EU-medborgare, oavsett storlek.
+
+### Vad är en DPIA?
+Det är en konsekvensbedömning avseende dataskydd. Obligatorisk när en behandling kan medföra höga risker för individers rättigheter och friheter.
+
+### Tillhandahåller ISGroup även DPO-stöd?
+Ja. ISGroup kan assistera eller fungera som extern DPO, tillhandahålla verktyg, utbildning och kontinuerligt stöd.
+
+### Vad kostar ett GDPR-projekt?
+För SME börjar det från 30 000 SEK, för strukturerade företag eller multi-site överstiger det 150 000 SEK, särskilt om teknisk analys ingår.
+
+### Vad händer vid inspektion från Datainspektionen?
+Du måste kunna visa ansvarsskyldighet: uppdaterad dokumentation, bevis på vidtagna åtgärder, hanteringsprocesser.
+
+### Är informationssäkerhet en del av GDPR?
+Absolut ja. GDPR kräver lämpliga tekniska åtgärder. ISGroup integrerar revision, pentest, kryptering, DLP och SOC.
+
+### Täcker GDPR även molndata?
+Ja. All persondata, oavsett var den behandlas, omfattas av samma regler.
+
+### Behöver man göra om efterlevnaden varje år?
+Man behöver upprätthålla och uppdatera efterlevnaden. ISGroup erbjuder årlig kontroll, dokumentuppdatering och återkommande tekniska tester.
