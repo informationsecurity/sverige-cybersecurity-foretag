@@ -158,3 +158,15 @@ Inte ännu generellt, men krävs för MDR-produkter, offentliga upphandlingar, P
 
 ### Vad kostar det?
 Mellan 4 000€ och 25 000€, beroende på antal enheter, firmware-komplexitet, gränssnitt och protokoll.
+
+### Inkluderar ISGroup även mobilappar?
+Ja, assessmenten täcker hela kedjan: IoT-enhet, companion app (iOS/Android), backend API och molninfrastruktur.
+
+### Vad är skillnaden mellan IoT Security Assessment och vanlig penetrationstestning?
+IoT Security Assessment fokuserar specifikt på anslutna enheter, deras firmware, kommunikationsprotokoll och hela ekosystemet, medan vanlig penetrationstestning oftast fokuserar på nätverks- och webbapplikationer.
+
+### Vilka är de vanligaste hoten mot IoT-enheter?
+Vanliga hot inkluderar svaga autentiseringsmekanismer, osäkra kommunikationsprotokoll, bristfällig kryptering, hårdkodade lösenord och sårbarheter i firmware.
+
+### Hur kan företag förbereda sig för en IoT Security Assessment?
+Företag bör dokumentera sina IoT-enheter, nätverkstopologi, dataflöden och säkerhetspolicyer innan assessmenten påbörjas.
