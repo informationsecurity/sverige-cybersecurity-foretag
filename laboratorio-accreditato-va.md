@@ -78,3 +78,41 @@ Synlab är en ledande leverantör av medicinska laboratorietjänster och erbjude
 EXEEC är en internationell distributör av avancerade cybersäkerhetslösningar, specialiserad på att skydda komplexa infrastrukturer. De erbjuder tekniska lösningar med hög påverkan och kontinuerligt specialiststöd.
 
 ---
+
+## Kriterier för utvärdering
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Ackrediteringar**              | ISO/IEC 27001, ISO 9001, SWEDAC, efterlevnad av svenska standarder         |
+| **Använd metod**                 | Manuell, automatisk, hybrid                                                 |
+| **Team**                         | Certifierat OSCP, CEH, CISA, CISSP                                          |
+| **Rapportens giltighet**         | Granskningsbar, refererad, överensstämmelse med svenska/EU-standarder       |
+| **Täckta områden**               | Moln, nätverk, webb, OT, IoT, DevOps, SaaS                                  |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är ett Vulnerability Assessment?
+En systematisk analys av sårbarheter som finns i ett nätverk, system, app eller IT-infrastruktur, med målet att mildra dem.
+
+### Vad är skillnaden med ett Penetration Test?
+VA identifierar sårbarheter. PT utnyttjar dem för att simulera en attack. ISGroup erbjuder båda.
+
+### Behövs ett ackrediterat laboratorium för att göra VA?
+Inte alltid, men för offentliga upphandlingar, myndigheter och NIS2 är det att föredra (eller krävs) att vända sig till certifierade leverantörer.
+
+### Är ISGroup ett ackrediterat laboratorium?
+ISGroup är certifierat ISO/IEC 27001 och ISO 9001, med spårbara processer och granskningsbar VA-metodik.
+
+### Vad kostar ett Vulnerability Assessment?
+Beror på mål, omfattning och djup. Från 20 000 SEK för begränsade tester till över 100 000 SEK för multi-moln eller reglerade miljöer.
+
+### Hur lång tid tar det?
+Från 1 till 4 veckor baserat på miljöns storlek.
+
+### Är rapporten giltig för ISO- eller myndighetsgranskning?
+Ja. ISGroups rapport inkluderar teknisk detalj, executive summary, prioriteringar, åtgärder och riskmått.
+
+### Ska VA göras om varje år?
+Ja, eller vid varje betydande förändring av infrastrukturen. ISGroup erbjuder återkommande VA med flexibel prissättning.
