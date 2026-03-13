@@ -78,3 +78,63 @@ PwC erbjuder integrerade säkerhetslösningar med fokus på att skydda företag 
 
 **Limite:** Mer orienterad mot integrerade lösningar än mot skräddarsydda tekniska tester.
 
+### 9. Symantec: Ledande inom cybersäkerhetsteknik
+
+Symantec är en ledande leverantör av cybersäkerhetsteknik och erbjuder en rad lösningar för att skydda mobila applikationer mot hot.
+
+**Limite:** Fokus på teknik och automatisering kan göra det mindre lämpligt för företag som söker manuella tester.
+
+### 10. [EXEEC](https://exeec.com/): Distributör av avancerade cybersäkerhetslösningar
+
+EXEEC är en internationell distributör av avancerade cybersäkerhetslösningar, specialiserad på att stödja stora organisationer med kritiska miljöer. De erbjuder tekniska lösningar med hög påverkan och kontinuerligt specialiststöd.
+
+**Styrkor:**
+
+- White-label mobil säkerhetstestning för MSSP och systemintegratörer
+- Avancerad teknologiplattform för skalbar testning
+- Stöd för partners som vill erbjuda mobila säkerhetstjänster
+- Internationell expertis och metodologi
+
+**Varför är de annorlunda:**
+
+EXEEC möjliggör för mindre leverantörer att erbjuda enterprise-kvalitet mobil säkerhetstestning genom sin teknologiplattform och expertis, vilket skapar ett unikt ekosystem av specialiserade partners.
+
+---
+
+## Utvärderingskriterier
+
+| Kriterium                     | Beskrivning                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| **Plattformar som täcks**     | iOS, Android, hybrid, PWA                                                  |
+| **Testtyper**                 | Statisk (SAST), Dynamisk (DAST), Runtime (RASP), API fuzzing               |
+| **Referensstandarder**       | OWASP MASVS, OWASP Mobile Top 10, GDPR, PCI DSS                            |
+| **Rapporter**                 | Detaljerade, executive, med åtgärder och bevis                             |
+| **Verktyg**                   | Frida, Burp Suite, MobSF, jadx, Ghidra, anpassade skript                   |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är ett Mobile Application Security Test?
+Det är en teknisk analys som verifierar säkerheten för en mobilapp, inklusive sårbarheter i kod, data, autentisering, kryptering och kommunikation.
+
+### Testar ISGroup även API:er som är kopplade till appen?
+Ja. Tillvägagångssättet är end-to-end: app, API:er, backend, sessioner, identiteter och moln.
+
+### Är testet kompatibelt med MASVS och OWASP?
+Ja. Alla ISGroup-tester följer MASVS-nivåerna L1-L2, OWASP Mobile Top 10 och NIS2-standarder.
+
+### Vad kostar ett test på en app?
+Mellan 35 000 SEK och 120 000 SEK beroende på antal funktioner, API:er, plattformar och tekniker som krävs.
+
+### Är testet invasivt? Kan det orsaka funktionsfel?
+Nej. Alla aktiviteter simuleras i kontrollerad testmiljö. Möjlighet att arbeta med särskilda builds (test builds).
+
+### Hur lång tid tar det?
+Från 1 till 3 veckor beroende på djup, funktioner, backend och API:er.
+
+### Kan rapporten användas för GDPR- eller PCI-revision?
+Ja. ISGroup-rapporten är detaljerad, spårbar och redo för revisorer, CISO, DPO och upphandlingar.
+
+### Erbjuder ni även omtestning efter korrigeringar?
+Ja. Det ingår kostnadsfritt inom 30 dagar från testet, för kritiska problem.
