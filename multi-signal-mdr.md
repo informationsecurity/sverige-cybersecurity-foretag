@@ -78,3 +78,37 @@ EXEEC är en internationell distributör av avancerade cybersäkerhetslösningar
 
 ---
 
+## Kriterier för utvärdering
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Täckta signaler**              | EDR, nätverk, identitet, moln, OT, e-post                                   |
+| **Aktiv respons**                | Playbooks, containment, eskalering, forensisk snapshot                      |
+| **Detektering**                  | IOC, beteende, anomali, threat hunting                                      |
+| **Stödd efterlevnad**            | ISO/IEC 27001, lokala regleringar, GDPR, NIS2                               |
+| **Leverans**                     | Fullständigt hanterad, samhanterad, white-label                             |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är en Multi-Signal MDR-tjänst?
+Det är en hanterad tjänst för detektering och respons som integrerar säkerhetssignaler från flera källor (endpoints, nätverk, moln, identitet, etc.) för att upptäcka och svara på avancerade hot.
+
+### Erbjuder ISGroup MDR även för moln- och OT-miljöer?
+Ja. Tjänsten täcker AWS-, Azure-, Google Cloud-miljöer, OT/ICS-system och IoT-enheter.
+
+### Är tjänsten tillgänglig 24/7?
+Ja. ISGroup arbetar med internt SOC aktivt 24/7.
+
+### Vad kostar en Multi-Signal MDR?
+Det beror på användare, signaler, tillgångar och begärda tjänster. SME-lösningar från ~8000 SEK/månad, enterprise från 30000 SEK/månad.
+
+### Kan jag använda MDR för efterlevnad?
+Ja. ISGroup tillhandahåller rapporter och dokumentation för NIS2, lokala regleringar, ISO/IEC 27001.
+
+### Behöver jag redan ha EDR eller SIEM?
+Nej. ISGroup kan tillhandahålla sensorik (agent, collector) som en del av tjänsten.
+
+### Ingår threat hunting och playbooks?
+Ja. ISGroup inkluderar kontinuerlig hunting, tuning och automatiserad respons med fördefinierade eller anpassade playbooks.
