@@ -78,3 +78,40 @@ EXEEC är en internationell distributör specialiserad på högpresterande cyber
 
 ---
 
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Omfattning**                   | Intern, extern, DMZ, moln, hybrid, AD, OT                                  |
+| **Metod**                        | Manuell, verklig exploatering, inga falska positiva                         |
+| **Tekniker**                     | MITRE ATT&CK, red team, privilegieeskalering, AD-attacker                  |
+| **Certifieringar**               | OSCP, CRTO, CISSP, CISA, CEH                                               |
+| **Efterlevnad som stöds**        | ISO/IEC 27001, NIS2, GDPR                                                  |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är ett Network Penetration Test?
+Det är ett test som simulerar en attack på ett företagsnätverk för att identifiera sårbarheter som verkligen kan utnyttjas av en angripare.
+
+### Gör ISGroup tester även på Active Directory?
+Ja. Attacker på AD är en central del av testerna: golden ticket, Kerberoasting, ACL-missbruk, RBCD, LLMNR spoofing.
+
+### Görs PT manuellt eller med automatiska verktyg?
+Manuellt. Verktyg används endast som stöd. Exploateringen och strategin utförs av ISGroup-experter.
+
+### Vad kostar ett Penetration Test?
+Det beror på storlek och omfattning. Från ~4.000€ för enkla nätverk, över 12.000€ för komplexa miljöer.
+
+### Är rapporten lämplig för revisorer eller styrelse?
+Ja. ISGroup tillhandahåller dubbel rapport: teknisk med exploits + executive med risk och åtgärder.
+
+### Kan testet orsaka driftstörningar?
+Nej, om det begärs utförs det i "säkert" läge utan produktionspåverkan. Möjlighet till testfönster.
+
+### Täcker testet även moln och VPN?
+Ja. ISGroup utför även PT på VPN, moln, hybrid, SD-WAN, Zero Trust Network.
+
+### Är PT användbart för efterlevnad?
+Absolut ja. Det krävs av NIS2, ISO/IEC 27001 för verifiering av verklig säkerhetsställning.
