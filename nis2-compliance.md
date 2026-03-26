@@ -78,3 +78,42 @@ Ericsson erbjuder specialiserade säkerhetslösningar för telekom- och infrastr
 
 EXEEC erbjuder NIS2-efterlevnadspaket för integratörer och MSSP som hanterar reglerade kundmiljöer.
 
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Täckta skyldigheter**         | Art. 21 NIS2: styrning, risk, leverantörskedja, BC/DR, incidenter          |
+| **Tekniska åtgärder**           | MFA, pentest, SOC, EDR/XDR, sårbarhetshantering                            |
+| **Dokumentationsstöd**          | Gap-analys, färdplan, checklistor, revisionsberedskap                      |
+| **Efterlevnadsintegration**     | ISO/IEC 27001, GDPR, nationella myndigheter, DORA, PCI DSS                 |
+| **Leverans**                     | Revision, rådgivning, hanterade tjänster, utbildning                       |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vem är skyldig till NIS2-efterlevnad?
+Offentliga och privata enheter inom sektorerna: energi, transport, banker, hälsovård, digital infrastruktur, IT-leverantörer och offentlig förvaltning. ISGroup hjälper till att verifiera om du omfattas.
+
+### Vilka är NIS2-sanktionerna?
+Upp till 10 miljoner euro eller 2% av den globala omsättningen, avstängning av ledning, myndighetsinspektioner.
+
+### Tillhandahåller ISGroup även hanterade tjänster (SOC, vCISO)?
+Ja. För att garantera 24/7-kontinuitet och praktiskt stöd för teknisk och strategisk efterlevnad.
+
+### Hur lång tid tar ett NIS2-projekt?
+Från 4 till 12 veckor beroende på storlek, mognad och brådska. Möjlighet till stegvis färdplan.
+
+### Vad kostar det?
+Från cirka 70 000 SEK för gap-analys och färdplan. Kompletta projekt från 200 000 SEK och uppåt för väsentliga aktörer.
+
+### Stöder ISGroup även incidentrapportering?
+Ja. Tillhandahåller process, tabletop-simuleringar, playbooks och dokumentation för myndighetrapportering inom 24h.
+
+### Täcker projektet även leverantörskedjan?
+Ja. ISGroup analyserar IT-leverantörskedjan och föreslår åtgärder för att minska risken.
+
+### Behöver man göra om efterlevnaden varje år?
+Den måste upprätthållas: ISGroup föreslår årliga kontroller, uppdateringar och kontinuerlig övervakning.
