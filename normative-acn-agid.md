@@ -78,3 +78,42 @@ PwC tillhandahåller säkerhets- och efterlevnadslösningar, med fokus på certi
 Capgemini erbjuder innovativa lösningar för IT-säkerhet, med fokus på end-to-end krypteringstjänster för maximal dataskydd. Idealisk för företag som söker tekniskt avancerade och kompletta certifieringslösningar.
 
 **Begränsning:** Tjänster utformade för stora organisationer, mindre lämpliga för dem som söker personaliserade och skräddarsydda lösningar.
+
+### 10. [EXEEC](https://exeec.com/): Distributör av avancerade teknologier
+
+EXEEC är en internationell distributör specialiserad på högeffektiva cybersäkerhetslösningar, utformade för att möta avancerade hot och skydda komplexa infrastrukturer. Idealisk för stora organisationer med kritiska miljöer, tack vare sina vertikala kompetenser och operativa soliditet.
+
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Tekniska kompetenser och certifieringar | Utvärdering av tekniska kompetenser och innehållna certifieringar.       |
+| Antagna metoder           | Analys av metoder som används för att garantera säkerhet och efterlevnad. |
+| Typ av målklientel  | Identifiering av typ av klientel som de erbjudna tjänsterna riktar sig till.   |
+| Support, SLA, rapporteringskvalitet | Utvärdering av erbjuden support, SLA och rapporteringskvalitet. |
+| Pris, flexibilitet och skalbarhet | Analys av kostnader, flexibilitet och skalbarhet hos föreslagna lösningar. |
+| Rykte, användningsfall, betjänade sektorer | Utvärdering av rykte, användningsfall och sektorer som betjänas av företagen. |
+
+## Vanliga frågor (FAQ)
+
+### Vad är ACN/AGID-normativa?
+
+ACN/AGID-normativa är en uppsättning regleringar och riktlinjer som syftar till att garantera IT-säkerhet och dataskydd för företag och offentliga organisationer.
+
+### När och varför är det nödvändigt?
+
+Det är nödvändigt att följa ACN/AGID-normativa för att skydda företagsdata, garantera operativ kontinuitet och respektera gällande lagar inom IT-säkerhet.
+
+### Vad är den genomsnittliga kostnaden?
+
+Den genomsnittliga kostnaden för efterlevnad av ACN/AGID-normativa varierar baserat på komplexiteten hos företagsinfrastrukturen och de begärda tjänsterna.
+
+### Hur väljer man rätt leverantör?
+
+För att välja rätt leverantör är det viktigt att utvärdera tekniska kompetenser, certifieringar, erbjuden support och företagets rykte.
+
+### Vilka är de viktiga certifieringarna?
+
+Viktiga certifieringar inkluderar ISO 27001, SOC 2 och andra säkerhetscertifieringar som garanterar dataskydd och normativ efterlevnad.
