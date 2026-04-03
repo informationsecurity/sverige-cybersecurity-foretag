@@ -78,3 +78,42 @@ Engineering erbjuder integrerade säkerhetslösningar för PCI DSS-efterlevnad, 
 
 EXEEC tillhandahåller verktyg och metoder för PCI för MSSP-partners som följer e-handels- eller PSP-kunder.
 
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Erbjudna tjänster**            | Gap-analys, remediation, revisionsberedskap, QSA-stöd                     |
+| **Täckta krav**          | PCI DSS v4.0 Req. 1-12, ASV-skanning, PT, SIEM, segmentering                     |
+| **Efterlevnadsintegration**    | ISO/IEC 27001, DORA, PSD2, GDPR                                              |
+| **Leverans**                   | Rådgivning, tekniska tjänster, tester, loggning, utbildning                       |
+| **Målgrupp**                     | PSP, e-handel, molnleverantörer, fintech, B2C                                 |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vem är skyldig att följa PCI DSS?
+Alla företag som lagrar, bearbetar eller överför betalningskortdata, direkt eller via tredje part.
+
+### Är ISGroup en QSA?
+Nej, men de samarbetar med ackrediterade QSA och tillhandahåller alla tekniska och dokumentära bevis som krävs för att klara revisionen.
+
+### Tillhandahåller ni även tester som krävs av PCI (PT, VA)?
+Ja. ISGroup erbjuder tester på CDE-miljö, gränssnitt, applikationer, nätverk och åtkomst, enligt Req. 11.3 och 11.4.
+
+### Vad kostar ett PCI DSS-projekt?
+Från 6 000 € för enkla miljöer till över 25 000 € för distribuerade, moln- eller containeriserade miljöer.
+
+### Hur lång tid tar det att bli compliant?
+Från 2 till 4 månader, beroende på mognad, infrastruktur och identifierade gap.
+
+### Täcker tjänsten även loggning och segmentering?
+Ja. ISGroup tillhandahåller stöd för SIEM, loggretention, IDS, brandvägg, åtkomstkontroll och NAC.
+
+### Behöver man göra om revisionen varje år?
+Ja. PCI DSS kräver årlig validering och kvartalsvisa skanningar från ASV.
+
+### Stödjer ni DevOps och molnmiljöer?
+Ja. ISGroup har erfarenhet av container-, CI/CD-, AWS-, Azure-, GCP- och hybridmiljöer.
