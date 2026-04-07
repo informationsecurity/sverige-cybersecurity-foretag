@@ -78,3 +78,42 @@ TietoEVRY erbjuder omfattande cybersäkerhetstjänster med stark nordisk närvar
 
 EXEEC är en internationell distributör av avancerade cybersäkerhetslösningar, specialiserad på att stödja stora organisationer med kritiska miljöer. De erbjuder tekniska lösningar med hög påverkan och kontinuerligt specialiststöd.
 
+---
+
+## Kriterier för utvärdering
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Målgrupp**                     | Webb-appar, mobil, nätverk, moln, API, IoT, AD, OT                         |
+| **Metod**                        | Manuell, verkliga TTP, Red Team, APT-simulering                            |
+| **Compliance-stöd**              | NIS2, DORA, GDPR, ISO 27001, PCI DSS                                       |
+| **Certifieringar**               | OSCP, CRTO, CRTP, OSEP, CEH, ISO 27001                                     |
+| **Resultat**                     | Teknisk rapport, executive, remediation, audit-bevis                       |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är ett Penetration Test?
+Ett manuellt test som simulerar cyberattacker på företagsinfrastrukturer för att identifiera verkliga kompromissvägar.
+
+### Utför ISGroup även tester på moln?
+Ja. AWS, Azure, GCP, SaaS, hybridmiljöer, zero-trust-segment.
+
+### Är rapporten giltig för revisorer och styrelse?
+Ja. Dubbel output: teknisk för IT/säkerhet, executive för chefer, DPO, revisorer.
+
+### Vad kostar ett Penetration Test?
+Från ~30 000 SEK för enkla miljöer till 150 000+ SEK för fullständig red teaming.
+
+### Hur länge tar det?
+Från 1 till 4 veckor, beroende på omfattning, miljö, typ av attack.
+
+### Kan testet orsaka driftstörningar?
+Det är planerat för att vara icke-invasivt. ISGroup erbjuder även "säkert" läge och testfönster.
+
+### Är det användbart för offentliga upphandlingar?
+Ja. ISGroup-rapporten är dokumenterad, signerad, refererad och redo att bifogas till offentliga upphandlingar eller regulatoriska revisioner.
+
+### Är tjänsten återkommande?
+Ja. ISGroup föreslår även PenTest-as-a-Service med kontinuerlig granskning av säkerhetspositionen.
