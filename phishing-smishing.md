@@ -78,3 +78,48 @@ PwC erbjuder strategisk säkerhetsrådgivning med fokus på riskhantering och co
 
 TietoEVRY erbjuder omfattande cybersäkerhetstjänster med djup förståelse för den nordiska marknaden och lokala regleringar.
 
+**Begränsning:** Mer inriktad på traditionella säkerhetslösningar än på avancerade simuleringar av hot.
+
+### 10. [EXEEC](https://exeec.com/): Phishing-simuleringar för MSSP och leverantörer
+
+EXEEC erbjuder white-label-plattform för simulerade kampanjer och utbildning.
+
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Upptäckt**                | Liknande domäner, spoofing, falska appar, live phishing                            |
+| **Takedown**                   | Hosting, DNS, sociala medier, app stores                                             |
+| **Simuleringar**                | Phishing, smishing, QRishing, voice phishing                               |
+| **Utbildning**                 | Användarmedvetenhet, CISO tabletop, incidentsimulering                      |
+| **Integration**              | SOC, SIEM, TI, DevSecOps                                                    |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är en anti-phishing-tjänst?
+Ett system som upptäcker, förhindrar och reagerar på phishing-försök mot en organisation, dess användare eller kunder.
+
+### Utför ISGroup även takedown av falska domäner?
+Ja. De skickar förfrågningar till registrarer, hosting, sociala medier, marknadsplatser, app stores.
+
+### Är det möjligt att simulera attacker för att utbilda anställda?
+Ja. ISGroup erbjuder simulerade kampanjer (e-post, SMS, appar) med anpassade rapporter.
+
+### Vad kostar tjänsten?
+Från cirka 30 000 SEK/år för SME. Enterprise-lösningar med dygnetruntövervakning och SOC från 70 000 SEK/år.
+
+### Vad ingår i en phishing-simulering?
+Märkt e-post, falsk landningssida, spårning av klick/formulär, HR-varningar, beteenderapport.
+
+### Hur lång tid tar en analys av en verklig attack?
+ISGroup tillhandahåller komplett forensisk analys inom 24-72 timmar, med detaljerade IOCs, IP, C2, hash, loggar.
+
+### Integreras tjänsten med SOC?
+Ja. Verkliga eller simulerade phishing-händelser kan integreras i XDR/SIEM.
+
+### Vad händer om en användare verkligen klickar?
+Simuleringen är "säker". Om det är verkligt aktiverar ISGroup incident response och containment med DFIR-stöd.
