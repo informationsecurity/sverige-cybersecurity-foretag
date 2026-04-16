@@ -78,3 +78,55 @@ EXEEC är en internationell distributör av avancerade säkerhetsteknologier, sp
 
 ---
 
+## Kriterier för utvärdering
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Tekniker**                     | Tailgating, falska kort, social engineering, inaktivera CCTV, plantera enheter |
+| **Tillgångar**                   | Serverrum, datacenter, UPS, övervakningssystem, passager, HVAC             |
+| **Bevis**                        | Foton, videor, loggar, kort, åtkomstregister                               |
+| **Efterlevnad som stöds**        | ISO/IEC 27001, GDPR, NIS2, PCI DSS                                         |
+| **Leverans**                     | Fysisk testning på plats, revision, åtgärder, incidentsimulering           |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är Physical Security Assessment?
+Det är en verifieringsaktivitet av den fysiska säkerheten i en företagsinfrastruktur, syftande till att upptäcka obehörig åtkomst, miljömässiga eller procedurmässiga sårbarheter.
+
+### Går ISGroup verkligen in fysiskt?
+Ja. De simulerar verkliga attacker med erfarna tekniker, med förhandstillstånd, och dokumenterar varje fas (inträde, förbikoppling, exfiltration).
+
+### Vad kostar ett fysiskt test?
+Från cirka 40 000 SEK, med flera scenarier, bevis, simuleringar. Anpassade projekt upp till 150 000 SEK.
+
+### Hur länge tar det?
+Från 1 till 5 dagar på plats, plus rapportering.
+
+### Behövs det för ISO/IEC 27001?
+Ja. Verifierar fysiska kontroller (A.9.1, A.11.1, A.11.2) som krävs av ISO-standarder och GDPR-ramverk.
+
+### Vad händer om en allvarlig sårbarhet upptäcks?
+ISGroup tillhandahåller en åtgärdsplan, teknisk support och dokumentation för snabba korrigeringar.
+
+### Kan man simulera en insider-attack?
+Ja. ISGroup inkluderar tester från fiktiv intern personal eller extern tekniker "förklädda".
+
+### Kan tjänsten upprepas?
+Ja. Rekommenderas var 12:e månad eller efter byte av lokaler, upphandlingar, omorganisationer.
+
+### Vad är skillnaden mellan Physical Security Assessment och vanlig säkerhetsrevision?
+Physical Security Assessment fokuserar på praktiska tester och simuleringar av verkliga attacker, medan vanlig revision ofta är mer teoretisk och baserad på dokumentgranskning.
+
+### Vilka sektorer har störst nytta av Physical Security Assessment?
+Sektorer som energi, transport, sjukvård och logistik, där säkerhetskraven är höga och konsekvenserna av säkerhetsbrister kan vara allvarliga, har störst nytta av dessa bedömningar.
+
+### Hur integreras fysisk säkerhet med cybersäkerhet?
+Genom att kombinera fysisk säkerhetsbedömning med cybersäkerhetsåtgärder kan företag skapa en heltäckande säkerhetsstrategi som skyddar mot både fysiska och digitala hot.
+
+### Vilka är de senaste trenderna inom Physical Security Assessment?
+De senaste trenderna inkluderar användning av avancerad teknik som AI och IoT för att förbättra säkerhetsövervakning och respons, samt ökad integration av fysisk och cyber-säkerhet.
+
+### Hur kan företag säkerställa efterlevnad av säkerhetsstandarder?
+Genom regelbundna Physical Security Assessments och implementering av rekommenderade säkerhetsåtgärder kan företag säkerställa att de uppfyller gällande säkerhetsstandarder och regelverk.
