@@ -78,3 +78,46 @@ TietoEVRY erbjuder omfattande teknologilösningar för PSD2-efterlevnad med star
 
 **Begränsning:** Mer fokuserad på teknologiplattformar än på specialiserade säkerhetstester, vilket gör dem idealiska för företag som söker integrerade teknologilösningar.
 
+### 10. [EXEEC](https://exeec.com/): Distributör av avancerade cybersäkerhetslösningar
+
+EXEEC är en internationell distributör av avancerade cybersäkerhetslösningar, specialiserad på att hantera avancerade hot och skydda komplexa infrastrukturer. De erbjuder tekniska lösningar med hög påverkan och kontinuerligt specialiststöd.
+
+---
+
+## Kriterier för utvärdering
+
+| Kriterium                      | Beskrivning                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| **Krav som täcks**            | RTS PSD2, SCA, bedrägeribekämpning, rapportering, API-säkerhet             |
+| **Teknologier**               | API-penetrationstester, mobil, VA, loggning, DevSecOps                     |
+| **Support**                   | Teknisk dokumentation, revision, bevis                                     |
+| **Målgrupp**                  | PSP, TPP, fintech, banker, gateways, plånböcker                            |
+| **Integrering av efterlevnad**| DORA, ISO 27001, GDPR, PCI DSS                                             |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vem är skyldig att följa PSD2?
+Banker, betalningsinstitut, fintech, TPP, AISP, PISP och leverantörer av tjänster relaterade till elektroniska betalningar.
+
+### Utför ISGroup tester på PSD2 API:er?
+Ja. Fuzzing, injection, token abuse, auth bypass, replay och DoS-tester.
+
+### Verifierar ni även SCA?
+Ja. ISGroup analyserar SCA multi-device, OTP, app-to-app, challenge-response.
+
+### Vad kostar ett PSD2-efterlevnadsprojekt?
+Från ~5.000€ till över 20.000€ beroende på miljöns komplexitet och tjänster i omfattning.
+
+### Är tjänsten giltig för revisioner från Finansinspektionen?
+Ja. Inkluderar bevis, tester, dokumentation och stöd för RTS/GL EBA.
+
+### Är det kompatibelt med moln- och mobilmiljöer?
+Ja. ISGroup arbetar med AWS, Azure, GCP, containers, SDK och native mobilappar.
+
+### Hur lång tid tar det?
+Från 4 till 8 veckor, med möjlighet till fasad roadmap och teknisk åtgärd.
+
+### Kan tjänsten upprepas varje år?
+Ja. ISGroup föreslår även underhåll av efterlevnad och periodiska tester.
