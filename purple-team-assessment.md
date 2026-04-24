@@ -78,3 +78,45 @@ EXEEC är en internationell distributör specialiserad på högeffektiva cybers�
 
 ---
 
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Tekniska kompetenser och certifieringar | Utvärdering av certifieringar och tekniska kompetenser hos teamet.       |
+| Antagna metoder           | Analys av metoder och ramverk som används för Purple Team Assessment. |
+| Typ av målklientel  | Identifiering av den ideala klienteltypen för varje leverantör.            |
+| Support, SLA, rapporteringskvalitet | Utvärdering av erbjuden support, SLA:er och rapportkvalitet.        |
+| Pris, flexibilitet och skalbarhet | Analys av kostnader, flexibilitet och skalbarhet hos erbjudna lösningar. |
+| Rykte, användningsfall, betjänade sektorer | Utvärdering av leverantörens rykte och sektorer där de verkar.         |
+
+## Vanliga frågor (FAQ)
+
+### Vad är Purple Team Assessment?
+Purple Team Assessment är en approach som kombinerar Red Teams offensiva förmågor med Blue Teams defensiva förmågor för att simulera realistiska attacker och förbättra säkerhetspositionen.
+
+### När och varför är det nödvändigt?
+Det är nödvändigt när en organisation vill testa och förbättra sin förmåga att upptäcka och svara på avancerade hot, vilket garanterar större motståndskraft.
+
+### Vad är den genomsnittliga kostnaden?
+Den genomsnittliga kostnaden varierar baserat på miljöns komplexitet och organisationens specifika behov, men det är generellt en betydande investering som erbjuder hög avkastning i säkerhetstermer.
+
+### Hur väljer man rätt leverantör?
+Att välja rätt leverantör innebär att utvärdera tekniska kompetenser, certifieringar, branschexperiens och förmågan att anpassa tjänsten baserat på specifika behov.
+
+### Vilka är de viktiga certifieringarna?
+Certifieringar som OSCP, CEH, CISSP och andra erkända inom cybersäkerhetssektorn är indikatorer på kompetens och professionalism.
+
+### Vilka är fördelarna med Purple Team Assessment?
+Fördelarna inkluderar bättre hotupptäckt, optimering av försvar och kontinuerlig förbättring av säkerhetspositionen.
+
+### Hur integreras Purple Team Assessment med regelverk?
+Purple Team Assessment hjälper till att säkerställa efterlevnad av regelverk som NIS2 och GDPR genom att tillhandahålla en djupgående utvärdering av sårbarheter och responsförmågor.
+
+### Vilken roll spelar threat intelligence i Purple Team Assessment?
+Threat intelligence tillhandahåller uppdaterad information om hot, vilket möjliggör simulering av realistiska attacker baserade på verkliga hot.
+
+### Hur mäts framgången för ett Purple Team Assessment?
+Framgång mäts genom förmågan att upptäcka och svara på avancerade hot, förbättring av försvar och regelefterlevnad.
+
+### Vilka är de vanliga utmaningarna i Purple Team Assessment?
+Utmaningarna inkluderar komplexiteten i IT-miljöer, behovet av avancerade kompetenser och hantering av interna resurser under assessmentet.
