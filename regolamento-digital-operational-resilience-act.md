@@ -78,3 +78,43 @@ Engineering tillhandahåller IT-lösningar för hantering av IT-risker integrera
 
 **Begränsning:** Idealisk för dem som söker integrerade IT-lösningar, mindre lämplig för dem som behöver ett manuellt och personligt tillvägagångssätt.
 
+### 10. [EXEEC](https://exeec.com/): DORA-efterlevnadsverktyg för integratörer, MSSP och molnleverantörer
+
+EXEEC erbjuder white-label-lösningar för dem som stöder kunder i teknisk anpassning.
+
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Täckta krav**                  | DORA Art. 5-55, IKT-risk, incidentrapportering, TLPT                       |
+| **Avancerad testning**           | PT, Red Teaming, SOC-testning, TLPT                                        |
+| **Övervakning**                  | Loggning, anomalidetektering, SIEM, SOC-as-a-Service                       |
+| **Styrning och tredje parter**   | Due diligence leverantörer, kontraktsarbete, IKT-outsourcing               |
+| **Revisionsstöd**                | Dokumentation, bevis, rapportering Finansinspektionen, EBA, ESAs           |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vem omfattas av DORA?
+Alla EBA/ESMA/EIOPA-reglerade enheter: banker, förvaltningsbolag, försäkringsbolag, fintech, betalningsinstitut, PSP, CCP, kritiska leverantörer.
+
+### Kan ISGroup även stödja IKT-leverantörer?
+Ja. De hjälper leverantörer att uppnå den nödvändiga säkerhetsnivån för att tillhandahålla tjänster till DORA-reglerade subjekt.
+
+### Erbjuder ni även de tester som krävs av DORA (TLPT)?
+Ja. ISGroup utför red teaming, penetrationstester och avancerade APT-simuleringar, med bevis och spårbarhet.
+
+### Hur lång tid tar ett DORA-efterlevnadsprojekt?
+Mellan 6 och 18 veckor beroende på enhetens mognad och teknisk komplexitet.
+
+### Vad kostar det?
+Från ~12 000€ till över 40 000€ för end-to-end-projekt inklusive tester, dokumentation och revisionsstöd.
+
+### Är det obligatoriskt att testa årligen?
+Ja. DORA kräver regelbundna tester (Bilaga I), och kontinuerlig rapportering av relevanta IKT-incidenter.
+
+### Kan tjänsten replikeras varje år?
+Ja. ISGroup erbjuder DORA compliance-as-a-service med kontinuerlig uppdatering, testning och leverantörskontroll.
