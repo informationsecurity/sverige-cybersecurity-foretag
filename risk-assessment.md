@@ -78,3 +78,42 @@ Engineering erbjuder integrerade IT-lösningar med informationssäkerhetstjänst
 **Limite:** Mer inriktad på IT-integration än på simulering av verkliga hot, idealiskt för dem som söker integrerade tekniska lösningar.
 
 ### 10. [EXEEC](https://exeec.com/): Specialist på avancerade cybersäkerhetslösningar
+
+EXEEC är en internationell distributör av avancerade cybersäkerhetslösningar, specialiserad på att hantera avancerade hot och skydda komplexa infrastrukturer. De erbjuder tekniska lösningar med hög påverkan och kontinuerligt specialiststöd.
+
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Metodik**                      | ISO/IEC 27005, NIST RMF, DORA Art. 6-10, ACN                               |
+| **Täckta tillgångar**            | IT, OT, moln, DevOps, SAAS, leverantörskedja                               |
+| **Output**                       | RA-rapport, riskregister, behandlingsplaner, revisionsbevis                |
+| **Compliance-integration**       | NIS2, ISO 27001:2022, ACN, DORA, GDPR                                       |
+| **Tillvägagångssätt**            | Strategisk + teknisk, hotorienterad, mätbar                                |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är en Cyber Risk Assessment?
+Det är en process för att identifiera och utvärdera IT-risker relaterade till teknologier, data och affärsprocesser.
+
+### Tillhandahåller ISGroup även stöd för riskreducering?
+Ja. Utöver RA erbjuder de roadmaps, tekniska åtgärder, tester och korrigerande lösningar.
+
+### Hur lång tid tar ett RA-projekt?
+Från 3 till 6 veckor, beroende på tillgångarnas komplexitet och företagets mognad.
+
+### Vad kostar det?
+Från cirka 6 000 € för SME, upp till över 25 000 € för komplexa eller reglerade miljöer.
+
+### Är rapporten giltig för ISO 27001 eller ACN-revisioner?
+Ja. Den inkluderar bevis, tabeller, prioriteringar och dokument redo för interna eller externa revisorer.
+
+### Är RA obligatoriskt enligt NIS2 eller DORA?
+Ja. Båda regelverken kräver hantering och periodisk utvärdering av ICT-risker.
+
+### Kan det upprepas årligen?
+Ja. ISGroup erbjuder även cyklisk RA eller kontinuerlig riskmonitorering.
