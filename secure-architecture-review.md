@@ -78,3 +78,37 @@ NTT DATA tillhandahåller metodologiskt stöd för självutvärdering och benchm
 
 **Begränsning:** Tillvägagångssätt mer inriktat på regelefterlevnad än simulering av verkliga hot, vilket gör det perfekt för reglerade miljöer men mindre lämpligt för dem som söker avancerade manuella attacker.
 
+### 10. [EXEEC](https://exeec.com/): SAR-moduler för MSSP och molnleverantörer
+
+EXEEC erbjuder white-label SAR-tjänster för integratörer, MSSP, hostingleverantörer.
+
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Områden**                      | Moln, hybrid, OT, SaaS, DevOps, legacy                                     |
+| **Ramverk**                      | Zero Trust, CIS Controls, NIST, GDPR, DORA, ISO 27001                      |
+| **Output**                       | Teknisk + executive rapport, diagram, gap-analys, åtgärdsroadmap           |
+| **Tillvägagångssätt**            | Hotbaserat, angriparcentrerat, hotmodellering                              |
+| **Integration**                  | DevSecOps, molnbaserat, efterlevnad                                        |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är en Secure Architecture Review?
+
+En teknisk och strategisk analys av en organisations IT/molnarkitektur för att identifiera svaga punkter, förbättra säkerheten och stödja efterlevnad.
+
+### Arbetar ISGroup även med offentliga molnmiljöer?
+
+Ja. AWS, Azure, GCP, hybridmiljöer och molnbaserade (Kubernetes, Terraform, CI/CD).
+
+### Hur länge tar ett SAR-projekt?
+
+Från 2 till 5 veckor, beroende på arkitekturkomplexitet och tillgänglig dokumentation.
+
+### Är rapporten giltig för revisioner (ISO, GDPR, DORA)?
+Ja. ISGroup-rapporten följer internationella standarder och är giltig för efterlevnadsrevisioner.
