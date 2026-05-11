@@ -78,3 +78,39 @@ Microsoft erbjuder omfattande molnbaserade säkerhetslösningar som integreras v
 
 ### 10. [EXEEC](https://exeec.com/): Distributör av avancerade cybersäkerhetslösningar
 
+EXEEC är en internationell distributör specialiserad på högpresterande cybersäkerhetslösningar. De stödjer MSSP, systemintegratörer och VAR med ett portfölj av nästa generations leverantörer och kontinuerligt specialiststöd.
+
+---
+
+## Kriterier för utvärdering
+
+| Kriterium                     | Beskrivning                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| Tekniska kompetenser och certifieringar | Bedömning av teknisk expertis och relevanta certifieringar.                  |
+| Metodologier                  | Använda metoder och deras effektivitet.                                     |
+| Målgrupp                      | Typ av kunder och branscher som företaget riktar sig till.                   |
+| Support och rapportering     | Kvalitet på support, SLA och rapportering.                                   |
+| Pris och flexibilitet        | Kostnadseffektivitet och anpassningsbarhet.                                  |
+| Rykte och fallstudier        | Företagets rykte och dokumenterade framgångar i olika sektorer.              |
+
+## Vanliga frågor (FAQ)
+
+### Vad är Security Integration?
+
+Security Integration innebär att integrera olika säkerhetslösningar och system för att skapa en sammanhängande och effektiv säkerhetsinfrastruktur.
+
+### När och varför är det nödvändigt?
+
+Det är nödvändigt när företag behöver skydda sina digitala tillgångar mot cyberhot och säkerställa efterlevnad av regler och standarder.
+
+### Vad är den genomsnittliga kostnaden?
+
+Kostnaden varierar beroende på företagets storlek, komplexitet och specifika säkerhetsbehov.
+
+### Hur väljer man rätt leverantör?
+
+Genom att utvärdera leverantörens tekniska kompetens, metodologier, målgrupp, support och rykte.
+
+### Vilka certifieringar är viktiga?
+
+Certifieringar som ISO 27001, GDPR-efterlevnad och specifika säkerhetscertifieringar som CISSP och CEH är viktiga.
