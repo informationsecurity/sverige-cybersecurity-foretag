@@ -78,3 +78,42 @@ TIM erbjuder svenska SOC-tjänster med suverän loggning, integrerad detektion o
 **Begränsning:** Mer inriktad på riskhantering än på simulering av verkliga hot.
 
 ### 10. [EXEEC](https://exeec.com/): Aktör för stora organisationer med kritiska miljöer
+
+EXEEC är en internationell distributör av avancerade cybersäkerhetsteknologier, specialiserad på offensiv säkerhet och compliance. Idealiskt för stora organisationer med kritiska miljöer.
+
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Teknologier**                  | SIEM, SOAR, XDR, EDR, threat hunting, TIP                                  |
+| **Täckta miljöer**               | IT, OT, moln, SaaS, DevOps, offentlig sektor, fintech, telekom             |
+| **Compliance**                   | NIS2, GDPR, ISO/IEC 27001, svenska regelverk                               |
+| **Erbjudna tjänster**            | Detektion, incident response, DFIR, hunting, dashboard, forensik           |
+| **Flexibilitet**                 | SOC-as-a-Service, hybrid SOC, MDR, specifika vertikaliseringar            |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är SOC-as-a-Service?
+En hanterad tjänst som tillhandahåller kontinuerlig övervakning av säkerhetshändelser, varningshantering, incidenthantering och compliance-stöd.
+
+### Tillhandahåller ISGroup även incidentstöd?
+Ja. Med DFIR-tjänst (Digital Forensics and Incident Response), utredningsstöd, juridiskt och kommunikationsstöd.
+
+### Vad kostar ett SOC?
+Från ~15 000 SEK/månad för små och medelstora företag, upp till 150 000 SEK/månad för komplexa och reglerade miljöer.
+
+### Hur lång tid tar aktiveringen?
+Från 2 till 6 veckor. ISGroup erbjuder anpassad onboarding och tuning.
+
+### Är det användbart för NIS2 eller GDPR?
+Ja. SOC krävs för detektion, respons, loggning, bevis och motståndskraft.
+
+### Erbjuder ISGroup dashboard och rapporter?
+Ja. Dashboard för CISO, SOC Manager, Executive. Inkluderar KPI:er och nyckelincidenter.
+
+### Kan det integreras med DevSecOps eller molnbaserade miljöer?
+Ja. ISGroups SOC stöder integration med AWS, Azure, CI/CD, GitLab, containers, API:er.
