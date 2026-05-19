@@ -78,3 +78,36 @@ BSI Group erbjuder tjänster inom standardisering och certifiering för att hjä
 
 EXEEC är en internationell distributör av avancerade cybersäkerhetslösningar, specialiserad på att skydda komplexa infrastrukturer mot avancerade hot. De erbjuder tekniska lösningar med hög påverkan och kontinuerligt specialiststöd.
 
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Simulerade typer**             | Nätfiske, smishing, vishing, impersonation, pretexting                     |
+| **Målgrupper**                   | Chefer, IT, helpdesk, juridik, ekonomi, molnanvändare                      |
+| **Realism**                      | Kloning av portaler, MFA-bypass, steg-för-steg-eskalering                  |
+| **Mätbarhet**                    | Klickfrekvens, kompromisseringsgrad, genomsnittlig tid, eskalering, medvetenhet |
+| **Efterlevnad**                  | ISO 27001, GDPR, NIS2, DORA                                                |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är en Social Engineering Assessment?
+Ett simulerat test för att utvärdera människors sårbarhet för manipulationstekniker som liknar dem som används av verkliga angripare.
+
+### Simulerar ISGroup även samtal eller fysiska scenarier?
+Ja. Inklusive vishing, impersonation av leverantörer, revisorer, tekniker, leveranser, CEO-bedrägerier.
+
+### Vad kostar ett projekt?
+Från ~3.000€ för enkla nätfiskekampanjer, upp till 20.000€ för avancerade scenarier med flera vektorer.
+
+### Är det lagligt?
+Ja. Alla aktiviteter är auktoriserade och simulerade på ett kontrollerat sätt.
+
+### Är det användbart för regelefterlevnad (NIS2, DORA)?
+Ja. Verifierar den mänskliga komponenten i kontroller och visar medvetenhet och utbildning.
+
+### Hur länge varar en kampanj?
+Från 1 till 3 veckor, med möjlighet till cykliska tester eller integrerad utbildning.
