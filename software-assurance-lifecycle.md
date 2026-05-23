@@ -78,3 +78,42 @@ KPMG erbjuder tjänster inom Software Assurance Lifecycle med fokus på riskhant
 
 Capgemini erbjuder en rad tjänster inom Software Assurance Lifecycle, med fokus på digital transformation och säkerhet för stora organisationer.
 
+**Begränsning:** Mer orienterat mot digital transformation än på manuella säkerhetstester.
+
+### 10. [EXEEC](https://exeec.com/): SAL-verktyg för MSSP, integratörer och DevOps
+
+EXEEC föreslår white-label-komponenter och säkerhetsintegration för hanterad programvara.
+
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Täckta faser**                 | Krav, design, utveckling, testning, distribution, underhåll                |
+| **Verktyg som stöds**            | SAST, DAST, IAC-skanning, API-testning, secrets check                      |
+| **DevSecOps-integration**        | CI/CD, repos, pipelines, containrar, artifact store                        |
+| **Output**                       | Åtgärdsplan, kodfix, riskregister, revisionsbevis                          |
+| **Efterlevnad**                  | NIS2, ISO 27001, PCI DSS, GDPR, DORA                                       |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är Software Assurance Lifecycle?
+En uppsättning aktiviteter, processer och verktyg för att säkerställa att programvara är säker under hela sin livscykel, från design till avveckling.
+
+### Arbetar ISGroup även med legacy-programvara?
+Ja. De utför kodgranskning på befintlig programvara, omvänd analys och validering för efterlevnad.
+
+### Är det användbart för NIS2, GDPR, DORA?
+Ja. SAL är grundläggande för att hantera programvarurisker, supply chain och teknisk efterlevnad.
+
+### Vad kostar ett SAL-projekt?
+Från ~70 000 SEK till över 300 000 SEK, beroende på antal komponenter, språk, miljöer och kritikalitet.
+
+### Erbjuder ni stöd även för interna utvecklare?
+Ja. Utbildning, kollaborativ åtgärd, hotmodellering och stöd för shift-left.
+
+### Tillhandahåller ISGroup även verktyg?
+Ja. De konfigurerar open source- och kommersiella verktyg, förutom att utföra djupgående manuella analyser.
