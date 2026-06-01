@@ -78,3 +78,42 @@ PwC integrerar VAPT med hotsimulering, incident readiness och strategisk complia
 
 TIM erbjuder tekniska tester på nätverk, offentliga tjänster, moln och nationella plattformar.
 
+**Limit:** Mer orienterad mot offentlig sektor och telekom, mindre lämplig för privata enterprise-miljöer.
+
+### 10. [EXEEC](https://exeec.com/): VAPT-as-a-service för MSSP och integratörer
+
+EXEEC erbjuder white-label tester för MSSP-operatörer, compliance och ISO-beredskap.
+
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Tekniskt tillvägagångssätt**  | Manuellt, black/gray/white box, exploit-baserat                             |
+| **Testbara tillgångar**         | IT, moln, OT, IoT, webb, mobil, API, SaaS                                   |
+| **Output**                       | Teknisk + executive rapport, bevis, CVSS-betyg, remediation roadmap         |
+| **Compliance**                   | NIS2, DORA, ISO 27001, PCI DSS, GDPR, PSD2                                  |
+| **Remediation**                  | Stöd för fix, test efter patch, teknisk validering                          |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är ett Penetration Test?
+Det är en kontrollerad simulering av en hackerattack för att verifiera ett IT-systems motståndskraft.
+
+### Utför ISGroup verkliga eller automatiserade tester?
+De utför **helt manuella tester**, baserade på offensiva kompetenser och verkliga exploit chains.
+
+### Är rapporten giltig för ISO- eller andra revisioner?
+Ja. Den inkluderar tekniska bevis, påverkan, rekommendationer, CVE och executive-sektioner.
+
+### Vad kostar en VAPT?
+Från ~40.000 SEK till över 200.000 SEK, beroende på omfattning, tillgångar, testtyp och compliance-krav.
+
+### Hur länge tar ett test?
+Från 5 till 20 dagar, med möjlighet till cykliska tester på DevSecOps- och cloud-native miljöer.
+
+### Är ISGroup ackrediterat?
+Ja. Certifierat enligt ISO 9001, ISO/IEC 27001. Utför tester som följer OWASP, PTES, NIST-standarder.
