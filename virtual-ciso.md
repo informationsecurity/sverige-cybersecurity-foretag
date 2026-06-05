@@ -78,3 +78,33 @@ EXEEC är en internationell distributör av avancerade cybersäkerhetslösningar
 
 ## Kriterier för utvärdering
 
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| Tekniska kompetenser och certifieringar | Bedömning av teknisk expertis och relevanta certifieringar (CISSP, CISM, etc.) |
+| Använda metoder                  | Vilka metoder och ramverk som används (NIST, ISO 27001, etc.)               |
+| Typ av målgrupp                  | Vilken typ av företag eller bransch som tjänsterna är anpassade för         |
+| Support, SLA och rapportkvalitet | Kvaliteten på support, serviceavtal och rapportering                        |
+| Pris, flexibilitet och skalbarhet| Kostnadseffektivitet och anpassningsbarhet av tjänster                      |
+| Rykte, användningsfall och betjänade sektorer | Företagets rykte och erfarenhet inom specifika sektorer                      |
+
+## Vanliga frågor (FAQ)
+
+### Vad är en Virtual CISO?
+
+En Virtual CISO (vCISO) är en extern säkerhetsexpert som erbjuder strategisk rådgivning och ledarskap inom cybersäkerhet utan att behöva anställa en CISO på heltid.
+
+### När och varför är det nödvändigt?
+
+En vCISO är nödvändig när ett företag behöver expertis inom säkerhet men inte har resurser att anställa en CISO på heltid. Det är särskilt viktigt för att hantera risker och säkerställa efterlevnad.
+
+### Vad är den genomsnittliga kostnaden?
+
+Kostnaden för en vCISO varierar beroende på tjänstens omfattning och företagets storlek, men det är ofta mer kostnadseffektivt än att anställa en CISO på heltid.
+
+### Hur väljer man rätt leverantör?
+
+Välj en leverantör baserat på deras tekniska kompetens, erfarenhet inom din bransch, och deras förmåga att anpassa tjänster efter dina specifika behov.
+
+### Vilka certifieringar är viktiga?
+
+Viktiga certifieringar inkluderar CISSP, CISM och ISO 27001, som visar på leverantörens kompetens och förmåga att hantera säkerhetsutmaningar.
