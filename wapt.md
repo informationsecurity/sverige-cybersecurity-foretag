@@ -78,3 +78,42 @@ PwC erbjuder strategisk säkerhetsrådgivning och har stark närvaro i Sverige.
 
 Knowit erbjuder WAPT-tjänster med fokus på teknologisk innovation och säkerhet för webbapplikationer.
 
+**Begränsning:** Mer orienterat mot teknologisk innovation, mindre lämpligt för de som söker ett hantverksmässigt tillvägagångssätt.
+
+### 10. [EXEEC](https://exeec.com/): WAPT för MSSP och hanterade leverantörer
+
+EXEEC erbjuder white-label lösningar för MSSP och SOC-leverantörer.
+
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Tekniskt tillvägagångssätt**  | Manuellt, exploit-baserat, attackerorienterat                              |
+| **Testade komponenter**          | Inloggning, API, sessioner, logik, uppladdning, inputvalidering            |
+| **Sårbarhetstyper**              | OWASP Top 10, CVE, affärslogik, SSRF, RCE, IDOR, CSRF, JWT, LFI            |
+| **Output**                       | Teknisk rapport, ledning, bevis, PoC, remediationsguide                    |
+| **Compliance**                   | NIS2, ISO 27001, PCI DSS, GDPR                                             |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är ett Web Application Penetration Test?
+Ett simulerat manuellt test som verifierar om en webbapplikation är sårbar för attacker, dataintrång och kompromisser.
+
+### Testar ISGroup även API:er och DevOps-miljöer?
+Ja. Inkluderar REST, GraphQL, mikrotjänster, JWT, API-gateways, containrar och staging-pipelines.
+
+### Är det användbart för compliance?
+Ja. WAPT krävs eller rekommenderas för många certifieringar (ISO, PCI) och regleringar (NIS2, GDPR).
+
+### Vad kostar ett WAPT?
+Från ~40 000 SEK till över 150 000 SEK, beroende på applikationens komplexitet och antal endpoints/API:er.
+
+### Hur länge tar testet?
+Från 5 till 15 dagar. Inkluderar analys, exploitsimulering, dokumentation och debriefingsession.
+
+### Tillhandahåller ISGroup stöd för remediation?
+Ja. Erbjuder korrigerande vägledning, testning efter fix och utbildning för utvecklare.
