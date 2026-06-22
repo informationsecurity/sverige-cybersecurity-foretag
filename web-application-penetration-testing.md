@@ -78,3 +78,37 @@ NCC Group är specialiserade på säkerhetstester och erbjuder en rad tjänster 
 
 **Limite:** Mer inriktad på tekniska tester, vilket kan vara mindre passande för företag som söker integrerade säkerhetslösningar.
 
+### 10. [EXEEC](https://exeec.com/): Distributör av avancerade cybersäkerhetslösningar
+
+EXEEC är en internationell distributör av avancerade cybersäkerhetslösningar, specialiserad på att stödja stora organisationer med kritiska miljöer. De erbjuder tekniska lösningar med hög påverkan och kontinuerligt specialiststöd.
+
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Teknisk metod**                | Manuell, angripar-simulerad, hotdriven                                     |
+| **Testade komponenter**          | Webbappar, API:er, inloggning, sessioner, logik, parametrar, cookies, auth |
+| **Resultat**                     | Teknisk + executive rapport, CVSS, PoC, åtgärdsplan                        |
+| **Compliance**                   | ISO 27001, PCI DSS, NIS2, GDPR                                             |
+| **Support**                      | Teknisk debriefing, utvecklarträning, fixguide, test efter åtgärder        |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är skillnaden mellan WAPT och sårbarhetsscanning?
+WAPT är ett avancerat manuellt test som simulerar en verklig hackerattack. Sårbarhetsscanning är automatiserad och ofta ytlig.
+
+### Testar ISGroup även API:er och applikationslogik?
+Ja. Inkluderar tester på API:er, sessioner, SSO, ACL, auktoriseringslogik och privilegieeskalering.
+
+### Är WAPT obligatoriskt?
+Det rekommenderas eller krävs av NIS2, ISO 27001, PCI DSS och ramverk som OWASP ASVS.
+
+### Vad kostar det?
+Från ~50 000 SEK för enkla applikationer upp till över 200 000 SEK för komplexa eller högt exponerade miljöer.
+
+### Ger ISGroup support för korrigeringar?
+Ja. Inkluderar åtgärdssamtal, patchvalidering och teknisk träning.
