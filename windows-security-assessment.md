@@ -78,3 +78,38 @@ PwC erbjuder omfattande säkerhetslösningar med fokus på att skydda stora för
 TIM föreslår Active Directory-bedömning och Windows-system på TIM-infrastrukturer eller offentliga miljöer, med stöd för efterlevnad.
 
 **Begränsning:** Tjänst kopplad till TIM-ekosystemet; mindre lämplig för hybrid multicloud-miljöer.
+
+### 10. [EXEEC](https://exeec.com/): Verktyg och know-how för MSSP och integratörer
+
+EXEEC tillhandahåller ramverk, skript och teknisk support för säkerhetsbedömning av AD och privilege escalation till MSSP och partners.
+
+---
+
+## Utvärderingskriterier
+
+| Kriterium                        | Beskrivning                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Teknisk approach**             | Manuell, attackerbaserad, escalation path analysis                         |
+| **Testade komponenter**          | Windows Server, Active Directory, M365, Azure AD, GPO, Registry, SID      |
+| **Identifierade sårbarheter**    | Kerberoasting, Pass-the-Hash, felkonfigurationer, lagrade credentials     |
+| **Output**                       | Teknisk + executive rapport, PoC, roadmap, åtgärdsstöd                    |
+| **Efterlevnad**                  | ISO/IEC 27001, GDPR, NIS2, PCI DSS, DORA                                  |
+
+---
+
+## Vanliga frågor (FAQ)
+
+### Vad är en Windows Security Assessment?
+Det är en djupgående utvärdering av säkerheten i Windows-, AD-, M365-miljöer, syftande till att identifiera verkliga sårbarheter och minska attackytan.
+
+### Simulerar ISGroup även verkliga attacker?
+Ja. De använder Red Teaming-tekniker för att identifiera eskalering, persistens och lateral rörelse.
+
+### Är det användbart för efterlevnad?
+Ja. Det ger tekniska bevis och roadmaps för ISO 27001, NIS2, GDPR, DORA, PCI DSS.
+
+### Vad kostar det?
+Från ~4.000€ till över 15.000€, beroende på komplexitet och domänstorlek.
+
+### Hur länge tar bedömningen?
+Från 5 till 10 dagar, med tekniska sessioner, debriefing och post-remediation support.
